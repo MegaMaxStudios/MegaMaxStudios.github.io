@@ -1,3 +1,3 @@
 # MegaMaxStudios.github.io
 MegaMax Website
-website viewed [here](MegaMaxStudios.github.io)
+website viewed [here](https://MegaMaxStudios.github.io)
