@@ -1,7 +1,8 @@
 {
-  "username":"skyss0fly"
-  "password":"ThisPasswordIsATest"
-  "level":"Founder"
-  "joindate":"09-10-203:16:46"
-  "membership":"Lightning"
+  "username":"skyss0fly",
+  "password":"ThisPasswordIsATest",
+  "level":"Founder",
+  "joindate":"09-10-203:16:46",
+  "membership":"Lightning",
+  "userid":"1",
 }
